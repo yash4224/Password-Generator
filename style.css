@@ -32,6 +32,10 @@
     align-items: center;
 }
 
+.container{
+    width: 90%;
+    max-width: 450px;
+}
 
 h1 {
     color: var(--pl-white);
